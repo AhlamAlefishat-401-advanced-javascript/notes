@@ -7,7 +7,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/AhlamAlefishat-401-advanced-javascript/notes/pull/2)
+- [submission PR](https://github.com/AhlamAlefishat-401-advanced-javascript/notes/pull/3)
 
 - [front-end application](https://notes-lab.herokuapp.com/)
 
@@ -22,5 +22,5 @@
 
 #### UML
 
-![uml](../assets/uml.jpg)
+![uml](./assets/uml.jpg)
 
