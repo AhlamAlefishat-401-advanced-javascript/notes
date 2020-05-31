@@ -7,7 +7,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/AhlamAlefishat-401-advanced-javascript/notes/pull/5)
+- [submission PR](https://github.com/AhlamAlefishat-401-advanced-javascript/notes/pull/6)
 
 - [front-end application](https://notes-lab.herokuapp.com/)
 
