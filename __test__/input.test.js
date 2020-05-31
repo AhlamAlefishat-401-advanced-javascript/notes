@@ -14,7 +14,7 @@ minimist.mockImplementation(() => {
 
 describe('Input Module', () => {
   it('When both are valid', () => {
-    // console.log(minimist());
+
       
     let noteObject = new Input();
     expect(noteObject.valid()).toBeTruthy();
@@ -23,7 +23,7 @@ describe('Input Module', () => {
     
     let noteObject = new Input();
     noteObject.action = 'aqaqqa';
-  noteObject.payload = 'asasas';
+    noteObject.payload = 'asasas';
     expect(noteObject.valid()).toBeFalsy();
   });
 });

@@ -1,5 +1,5 @@
 
-# LAB - 02
+# LAB - 04
 
 ## Project: Notesy
 
@@ -15,6 +15,12 @@
 -  ` node index.js --add (YOUR NOTE)`
 -  ` node index.js --a (YOUR NOTE)`
 -  ` node index.js -a (YOUR NOTE)`
+- `node index.js -add (YOUR NOTE) --category 'classify your note'`
+- `node index.js --a (YOUR NOTE) --category 'classify your note'`
+- `node index.js -a (YOUR NOTE) --category 'classify your note'`
+- `node index.js --list show all categories`
+- `node index.js --list category name show all recored from a category`
+- `node index.js --delete id delete item with that id`
 #### Tests
 
 - npm test
@@ -22,5 +28,5 @@
 
 #### UML
 
-![uml](./assets/uml.jpg)
+![uml](./assets/uml.png)
 
